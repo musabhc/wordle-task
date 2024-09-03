@@ -1,12 +1,8 @@
 {
-    "currentStreak": "10",
-    "fifthTry": null,
-    "firstTry": "4",
-    "fourthTry": null,
-    "gameCount": "10",
-    "maxStreak": "10",
-    "secondTry": "1",
-    "sixthTry": null,
-    "thirdTry": null,
-    "winCount": "10"
+    "currentStreak": "3",
+    "firstTry": "2",
+    "gameCount": "3",
+    "maxStreak": "3",
+    "thirdTry": "1",
+    "winCount": "3"
 }
